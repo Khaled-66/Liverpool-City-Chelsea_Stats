@@ -1,7 +1,8 @@
 # ⚽ Premier League Stats Analysis (Liverpool, Man City, Chelsea)
 
 📊 **A data-driven exploration of Liverpool, Manchester City, and Chelsea over the last 7 Premier League seasons using Web Scraping, Data Cleaning, and Interactive Visualizations.**
-
+> <b>⚠️ Note:</b> <b>This project was completed on 2025-04-22.</b>  
+  The last match covered in the dataset was Manchester City 2 - 1 Aston Villa.
 ---
 
 ## 🚀 Project Overview
@@ -40,11 +41,14 @@ This project demonstrates skills in data engineering, data analysis, and visual 
 
 - Goals Scored vs Expected Goals (xG)
 
-  ![image](https://github.com/user-attachments/assets/315669b7-be60-4544-bdbd-cff92280b36c)
+  ![ScreenRecording2025-06-15131823-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/9c93367a-2361-4a08-8066-27356054d71f)
 
-- Match Results by Team
 
-  ![image](https://github.com/user-attachments/assets/18b80b85-19e9-4121-b855-07115093e96e)
+
+- goals scored vs. goals against
+
+  ![ScreenRecording2025-06-15141228-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/7f419f7f-53ec-4019-b181-5ebbe429e374)
+
 
 - Distribution of Match Attendance
 
@@ -53,11 +57,13 @@ This project demonstrates skills in data engineering, data analysis, and visual 
 
 - Change in Home/Neutral Game Attendance Over Time
 
-  ![image](https://github.com/user-attachments/assets/c4689fb2-e10b-48ae-b33e-5136839f9cb7)
+  ![ScreenRecording2025-06-15142445-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/b184cedf-0f82-4abc-b88f-b74c47e8c661)
+  
 
-- goals scored vs. goals against
+- Match Results by Team
 
-  ![image](https://github.com/user-attachments/assets/a8d3f51f-b643-4f5f-a980-fe8d67f979cf)
+  ![image](https://github.com/user-attachments/assets/18b80b85-19e9-4121-b855-07115093e96e)
+
 
 - Average xG by Competition
 
